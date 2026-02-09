@@ -1,0 +1,9 @@
+BRENT OIL PRICE ANALYSIS - INITIAL FINDINGS
+==================================================
+Analysis Date: 2026-02-05 23:28:32
+Data Range: 1987-05-20 to 2022-11-14
+Total Observations: 9011
+Final Price: $93.59
+Overall Return: 402.4%
+Average Daily Return: 0.0179%
+Daily Return Volatility: 2.5532%
