@@ -1,0 +1,2 @@
+analysis_method,change_point_date,change_point_event,change_point_index,mean_return_before,mean_return_after,return_change_pct,volatility_before,volatility_after,probability_increase,events_near_change,notes
+Bayesian_PyMC,2008-09-11,2008 Financial Crisis (simulated),5420,-0.04864659469351128,0.018753723110265113,0.06740031780377638,36.613702509879715,45.81903082298425,0.6852,1,Full Bayesian analysis
